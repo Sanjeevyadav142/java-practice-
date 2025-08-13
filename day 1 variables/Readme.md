@@ -23,4 +23,4 @@ This project contains basic Java programs demonstrating:
 -By default, any whole number you type without a suffix (like 1000) is treated as an int (32-bit integer).
 -If the value is within the range of int (-2,147,483,648 to 2,147,483,647), Java will allow it without
  a suffix — even if you assign it to a long
--
+
