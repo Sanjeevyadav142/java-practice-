@@ -15,8 +15,6 @@ This project contains basic Java programs demonstrating:
 - Basic arithmetic operations
 - Default values of variables
 
----
-
 ## 📝 Programs
 
 ### 1.important thing in Variables Declaration & Initialization
