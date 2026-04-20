@@ -29,4 +29,5 @@ public class ArithmeticExample {
         System.out.println("Division: " + (a / b));
         System.out.println("Modulus: " + (a % b));
     }
+    
 }
