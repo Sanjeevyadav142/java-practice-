@@ -21,5 +21,6 @@ public class FloatToIntExample {
 
         System.out.println("Original float: " + number);
         System.out.println("Converted int: " + converted);
+    
     }
 }
